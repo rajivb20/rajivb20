@@ -1,3 +1,1 @@
-:heart: ruby, python, cpp, java, golang, and typescript
-
-:heart: ruby-on-rails, flask, and vuejs
+:heart: python, cpp, java, swift, and typescript
